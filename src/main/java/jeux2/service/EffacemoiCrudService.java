@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package streaming.service;
+package jeux2.service;
 
 import java.io.Serializable;
 import org.springframework.data.repository.CrudRepository;
-import streaming.entity.Effacemoi;
+import jeux2.entity.Effacemoi;
 
 /**
  *

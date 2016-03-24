@@ -3,16 +3,16 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package streaming.servlet;
+package jeux2.servlet;
 
-import streaming.spring.AutowireServlet;
+import jeux2.spring.AutowireServlet;
 import java.io.IOException;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import org.springframework.beans.factory.annotation.Autowired;
-import streaming.service.EffacemoiCrudService;
+import jeux2.service.EffacemoiCrudService;
 
 /**
  *
